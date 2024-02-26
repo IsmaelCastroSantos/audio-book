@@ -7,7 +7,11 @@ O Projeto Audio-Books é um player de áudio desenvolvido com HTML, CSS e JavaSc
 Projeto desenvolvido na semana de imersão da plataforma de ensino da Hashtag.
 
 ## Funcionalidades
+<<<<<<< HEAD
 - Reprodução de Áudio: Permite reproduzir os seções do livro "Dom Casmurro" em formato de áudio.
+=======
+- Reprodução de Áudio: Permite reproduzir as seções do livro "Dom Casmurro" em formato de áudio.<br>
+>>>>>>> 5dba592b7bb8f3132c70926ce64f6be71adb8dcf
 - Controles de Reprodução: Botões de play, pause, avançar e retroceder para controlar a reprodução do áudio.
 
 ## Licença
